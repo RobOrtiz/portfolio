@@ -1,0 +1,10 @@
+
+#container {
+    background-image: url(/assets/images/shutterstock_456187270.jpg);
+    background-position: center;
+    width: 100%;
+    height: auto;
+}
+.card {
+    opacity: 80%;
+}
