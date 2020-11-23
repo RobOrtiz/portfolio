@@ -8,3 +8,19 @@
 .card {
     opacity: 80%;
 }
+#email {
+    text-align: right;
+    float: right;
+}
+#phone {
+    text-align: right;
+    float: right;
+}
+#resume {
+    text-align: right;
+    font-size: larger;
+}
+#upNext {
+    text-align: center;
+    font-weight: bolder;
+}
