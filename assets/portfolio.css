@@ -1,26 +1,40 @@
 
-#container {
-    background-image: url(/assets/images/shutterstock_456187270.jpg);
-    background-position: center;
-    width: 100%;
-    height: auto;
-}
 .card {
     opacity: 80%;
 }
-#email {
+.email {
     text-align: right;
-    float: right;
+    font-size: large;
 }
-#phone {
+.phone {
     text-align: right;
-    float: right;
+    font-size: large;  
 }
 #resume {
-    text-align: right;
+    text-align: justify;
     font-size: larger;
+    color: white;
 }
 #upNext {
     text-align: center;
     font-weight: bolder;
 }
+.card-img-top {
+    border-color: solid 1px black;
+}
+#intro {
+    background-size: cover;
+  }
+  #portfolio {
+      text-align: center;
+      font-family: 'Arial Narrow Bold', sans-serif;
+  }
+  .lead {
+      text-align: right;
+  }
+  .welcome {
+      text-align: left;
+  }
+  .media-body {
+      font-size: 18px;
+  }
