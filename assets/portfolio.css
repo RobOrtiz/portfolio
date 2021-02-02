@@ -1,19 +1,48 @@
-
-.card {
-    opacity: 80%;
+#bg-img {
+    width: 100%;
+    height: 100;
+    clip-path: polygon(0 0, 51% 0, 100% 0, 100% 80%, 50% 65%, 0 80%);
+    position: absolute;
+    z-index: -1;
 }
-.email {
+#intro-card {
+    font-family: 'Jockey One', sans-serif;
+    float: left;
+    padding: 5rem;
+    border: 0;
+}
+#info-card {
     text-align: right;
+    font-family: 'Jockey One', sans-serif;
     font-size: large;
-}
-.phone {
-    text-align: right;
-    font-size: large;  
+    margin-top: 20px;
+    border: 0;
+    padding: 3rem;
 }
 #resume {
     text-align: justify;
     font-size: larger;
     color: white;
+}
+#dividerOne {
+    width: 100%;
+    height: 250px;
+}
+#bioContainer {
+    border: none;
+}
+#bio {
+    color: rgb(65, 65, 65);
+}
+#footballPic {
+    margin-left: 70px;
+}
+#djPic {
+    margin-left: 70px;
+}
+#dividerTwo {
+    width: 100%;
+    height: 150px;
 }
 #upNext {
     text-align: center;
