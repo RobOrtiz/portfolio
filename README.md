@@ -14,7 +14,7 @@
 - A gallery of photos respesenting what Robert Ortiz has created, hosted, and produced.
 
 ### Screenshot of URL
-![myscreenshot](https://github.com/RobOrtiz/portfolio/assets/images/Screen Shot Portfolio.png?raw=true)
+![myscreenshot](https://github.com/RobOrtiz/portfolio/assets/images/Screen-Shot-Portfolio.png)
 
 ### Open Source License link 
 https://opensource.org/licenses/MIT
